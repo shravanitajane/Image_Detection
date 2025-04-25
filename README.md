@@ -12,7 +12,7 @@ AI/ML: • TensorFlow (CNN & Transfer Learning) • NumPy • Pillow
 
 pip (Python Package Manager) Python Libraries: • tensorflow • numpy • pillow • djangorestframework
 
-🚀 Project Setup Guide 📁 1. Clone the Repository git clone https://github.com/shravanitajane/AI_Assignment.git
+🚀 Project Setup Guide 📁 1. Clone the Repository git clone https://github.com/shravanitajane/Image_Detection.git
 
 🔙 2. Backend Setup (Django) Create Virtual Environment & Activate it python -m venv venv
 
