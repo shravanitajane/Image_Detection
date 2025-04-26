@@ -1,5 +1,4 @@
 # Image_Detection
-Image Classification using CNN and Transfer Learning
 🧠 AI_Assignment: Image Classification using CNN and Transfer Learning An AI-powered image classification web app built using Django and Transfer Learning to classify different types of images (e.g., rice grains). This project demonstrates deep learning model deployment with a full-stack integration.
 
 🔧 Tech Stack Backend: • Django • Django REST Framework
